@@ -14,56 +14,56 @@
 <summary><b>Patrick Star</b></summary>
 <img src="themes/patrick-star/preview.gif">
 <br>
-<b><a href="recycle-bin-themes/tree/main/themes/patrick-star">[View Icons]</a></b>
+<b><a href="tree/main/themes/patrick-star">[View Icons]</a></b>
 </details>
 
 <details>
 <summary><b>Pop Cat</b></summary>
 <img src="themes/pop-cat/preview.gif">
 <br>
-<b><a href="recycle-bin-themes/tree/main/themes/pop-cat">[View Icons]</a></b>
+<b><a href="tree/main/themes/pop-cat">[View Icons]</a></b>
 </details>
 
 <details>
 <summary><b>Kirby</b></summary>
 <img src="themes/kirby/preview.gif">
 <br>
-<b><a href="recycle-bin-themes/tree/main/themes/kirby">[View Icons]</a></b>
+<b><a href="tree/main/themes/kirby">[View Icons]</a></b>
 </details>
 
 <details>
 <summary><b>Kanna</b></summary>
 <img src="themes/kanna/preview.gif">
 <br>
-<b><a href="recycle-bin-themes/tree/main/themes/kanna">[View Icons]</a></b>
+<b><a href="tree/main/themes/kanna">[View Icons]</a></b>
 </details>
 
 <details>
 <summary><b>Sword Kirby</b></summary>
 <img src="themes/sword-kirby/preview.gif">
 <br>
-<b><a href="recycle-bin-themes/tree/main/themes/sword-kirby">[View Icons]</a></b>
+<b><a href="tree/main/themes/sword-kirby">[View Icons]</a></b>
 </details>
 
 <details>
 <summary><b>French Fries</b></summary>
 <img src="themes/french-fries/preview.gif">
 <br>
-<b><a href="recycle-bin-themes/tree/main/themes/french-fries">[View Icons]</a></b>
+<b><a href="tree/main/themes/french-fries">[View Icons]</a></b>
 </details>
 
 <details>
 <summary><b>Minecraft Chest</b></summary>
 <img src="themes/minecraft-chest/preview.gif">
 <br>
-<b><a href="recycle-bin-themes/tree/main/themes/minecraft-chest">[View Icons]</a></b>
+<b><a href="tree/main/themes/minecraft-chest">[View Icons]</a></b>
 </details>
 
 <details>
 <summary><b>Garbage Bin</b></summary>
 <img src="themes/garbage-bin/preview.gif">
 <br>
-<b><a href="recycle-bin-themes/tree/main/themes/garbage-bin">[View Icons]</a></b>
+<b><a href="tree/main/themes/garbage-bin">[View Icons]</a></b>
 </details>
 
 ## How to change the Recycle Bin icon
