@@ -40,5 +40,15 @@
             "description": "Realistic Garbage Bin",
             "creator": "MrJohnDowe"
         },
+        "dachshund": {
+            "theme-name": "DachShund",
+            "description": "",
+            "creator": "MrJohnDowe"
+        },
+        "scooby-doo": {
+            "theme-name": "Scooby Doo",
+            "description": "",
+            "creator": "MrJohnDowe"
+        }
     }
 }
