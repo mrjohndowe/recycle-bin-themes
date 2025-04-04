@@ -66,6 +66,20 @@
 <b><a href="themes/garbage-bin">[View Icons]</a></b>
 </details>
 
+<details>
+<summary><b>DachShund</b></summary>
+<img src="themes/dachshund/preview.gif">
+<br>
+<b><a href="themes/dachshund">[View Icons]</a></b>
+</details>
+
+<details>
+<summary><b>Scooby Doo</b></summary>
+<code style="color:red;">No Preview Gif Provided</code>
+<br>
+<b><a href="themes/scooby-doo">[View Icons]</a></b>
+</details> 
+
 ## How to change the Recycle Bin icon
 ### Method 1
 1. Download the two icons ending with `empty.ico` and `full.ico`
